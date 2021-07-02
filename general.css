@@ -163,12 +163,12 @@ ul > li > a {
 }
 
 ul[class=green] > li > a:hover {
-  color: #4FAE0F;
+  color: #ed3434;
   transition: all 0.5s;
 }
 
 ul[class=blue] > li > a:hover {
-  color: #0972D6;
+  color: #ed3434;
   transition: all 0.5s;
 }
 
@@ -178,6 +178,6 @@ ul[class=red] > li > a:hover {
 }
 
 ul[class=yellow] > li > a:hover {
-  color: #edd934;
+  color: #ed3434;
   transition: all 0.5s;
 }
